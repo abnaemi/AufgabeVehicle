@@ -29,7 +29,7 @@ public class Main {
 
 
 
-
+    // tipps mit einer while(true) unendlich fdahren und break mit break machen xx:)
 
 
 
