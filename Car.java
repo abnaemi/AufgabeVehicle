@@ -8,7 +8,7 @@ public class Car extends Vehicle {
 
     public void brake(){
         this.velocity = 0;
-        System.out.println("Bicycle stopped");
+        System.out.println("Car stopped");
     }
 
 }
