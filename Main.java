@@ -14,7 +14,7 @@ public class Main {
             bike.brake();
         } else {
             bike.accelerate(5);
-        }} while (bike.velocity < 35 || bike.velocity >= 0);
+        }} while (bike.velocity < 35 && bike.velocity > 0);
 
 
 
