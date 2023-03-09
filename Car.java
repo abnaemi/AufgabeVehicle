@@ -6,6 +6,9 @@ public class Car extends Vehicle {
         return  velocity;
     }
 
-
+    public void brake(){
+        this.velocity = 0;
+        System.out.println("Bicycle stopped");
+    }
 
 }

@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
             Bicycle bike = new Bicycle();
+            Car car = new Car();
         Scanner scanner = new Scanner(System.in);
 
 
